@@ -4,7 +4,7 @@
 **🎟️ Early-Bird | $149 | Sep 8 \- 15**  
 **🎟️ General | $199 | Sep 16 \- 29**  
 
-**Sign up for the (waitlist)[https://tally.so/r/mYAWP0](https://tally.so/r/mYAWP0)**
+**Sign up for the [waitlist](https://tally.so/r/mYAWP0](https://tally.so/r/mYAWP0)**
 
 **About**
 
