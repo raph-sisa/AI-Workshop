@@ -2,13 +2,13 @@
 
 ## Summary 
 For any AI tool:
-├── Interface: How do I interact with it?
-├── Input/Output: What can it transform?
-├── Strengths: What's it optimized for?
-├── Limitations: What can't it do?
-├── Cost Model: How does pricing work?
-├── Control: Where do I maintain agency?
-└── Use Case Fit: Does this solve MY problem?
+- Interface: How do I interact with it?
+- Input/Output: What can it transform?
+- Strengths: What's it optimized for?
+- Limitations: What can't it do?
+- Cost Model: How does pricing work?
+- Control: Where do I maintain agency?
+- Use Case Fit: Does this solve MY problem?
 
 ## Quick Assessment Template
 
