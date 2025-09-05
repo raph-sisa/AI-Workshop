@@ -12,7 +12,7 @@ Along the way, you’ll apply human-centered AI and design principles.
 
 * Choose the right AI model for YOUR specific needs  
 * Understand interface patterns (chat vs. IDE vs. no-code builders)   
-* Evaluate new AI tools independently using our framework   
+* Evaluate new AI tools independently using a thoughtful framework   
 * Explore tools from ChatGPT to Hugging Face with confidence  
 * Systems and component-based thinking
 
