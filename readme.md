@@ -25,7 +25,7 @@ Along the way, you’ll apply human-centered AI and design principles.
 
 **Meet Your Facilitator:**
 
-[Raphael Sisa](https://www.linkedin.com/in/raphaelsisa/) facilitated PMA.LA’s first vibe-coding workshop. He has worked across product design, management, and user research and has learned to incorporate methodologies used by software architects and developers.
+[Raphael Sisa](https://www.linkedin.com/in/raphaelsisa/) facilitated PMA.LA’s first vibe-coding workshop. He has worked across product management, design and user research and has learned to incorporate methodologies used by software architects and developers.
 
 ## Workshop Philosophy
 We teach fundamentals and agency, not just tools. This workshop helps participants learn to evaluate, choose, and adapt ANY AI tool rather than memorizing specific platforms.
