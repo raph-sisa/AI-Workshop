@@ -1,12 +1,5 @@
 # Vibecode Workshop: AI Fundamentals for Product Teams
 
-**📅 Sep 29 \- Nov 7 📍Online | Timing TBD**
-
-**🎟️ Early-Bird Registration | $149 | Sep 8 \- 15**  
-**🎟️ General Registration | $199 | Sep 16 \- 29**  
-
-**Sign up for the [waitlist](https://tally.so/r/mYAWP0](https://tally.so/r/mYAWP0))**
-
 **About**
 
 It seems like every moment there’s a new tool, model, or platform that promises to transform the way we work. It’s hard to keep up.
